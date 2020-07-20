@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>rockstar2514</title>
+    <link>https://rockstar2514.github.io/</link>
+    <description>Recent content on rockstar2514</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 20 Jul 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://rockstar2514.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>My first Blog</title>
+      <link>https://rockstar2514.github.io/posts/my_first_blog/</link>
+      <pubDate>Mon, 20 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://rockstar2514.github.io/posts/my_first_blog/</guid>
+      <description>Experience This is my first blog. It is interesting to learn how to read md files. I will slowly increase my blog content. I am writing a Hello WOrld program in C++ :).
+#include&amp;lt;iostream&amp;gt; using namespace std; int main(){ cout&amp;lt;&amp;lt;&amp;#34;Hello World&amp;#34;; } End of my Blog.</description>
+    </item>
+    
+  </channel>
+</rss>
